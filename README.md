@@ -5,7 +5,7 @@
 3. Small-board-and-work-order-binding：小板綁定工單
 4. New-VF3107A-Test：VF3107A 穩定度測試
 5. VF3107A-ONOFF-Test：VF3107 開關機測試
-6. Sticker Printing System：貼紙列印系統 (含：測試結果分析)
+6. Sticker Printing System：貼紙列印系統 (含：測試結果分析、未完成)
 
 - 👋 Hi, I’m @Albert-0723
 - 👀 I’m interested in ...
