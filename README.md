@@ -12,8 +12,18 @@
 
 - ⚡ 我曾經用自己開發的機器人解決了一個複雜的拼圖，比我的朋友快了五倍！
 
-| 名稱                    | 版本       | 說明        | 備註   |
-|:---------------------:|:--------:|:---------:|:----:|
-| Albert-0723           |          | README.md | 這份文件 |
-| Albert-0723.github.io |          |           |      |
-| Powtron-ATS-2025      | v2.1.19c | 自動測試系統程式  |      |
+
+| Repository Name | Description | Visibility | Last Updated | Primary Language |
+|-----------------|-------------|------------|--------------|------------------|
+| Albert-0723 | Repositories List (Readme.md) | Public | 2025-08-25 | None |
+| Albert-0723.github.io | Albert's Home Page | Public | 2025-08-20 | HTML |
+| ASP-Script-Generator | ASP 調整、成測步驟自動產生器 | Private | 2025-08-25 | None |
+| Datalog-exporter | 測試結果資料查詢 | Private | 2025-08-25 | LabVIEW |
+| Datalog-Importer | 測試結果資料匯入 | Private | 2025-08-25 | LabVIEW |
+| EERW | EEPROM 讀寫 (& 匯入/匯出)、Record 讀取 (& 匯出) | Private | 2025-08-25 | LabVIEW |
+| Inverter-Durability-Test | 耐受性測試 | Private | 2025-08-25 | LabVIEW |
+| New-Relay-Board-Tools | 繼電器控制板工具程式 | Private | 2025-08-25 | LabVIEW |
+| New-Test-Terminal | 測試用終端機 | Private | 2025-08-25 | LabVIEW |
+| Powtron-ATS-2025 | 產線自動測試系統程式 | Private | 2025-08-22 | LabVIEW |
+| Program-en-decryption | 原始程式加密、解密 | Private | 2025-08-25 | LabVIEW |
+| Powtron-RD | Config files for my GitHub profile. | Public | 2025-08-15 | None |
