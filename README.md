@@ -8,9 +8,9 @@
 
 - 📫 您可以發送電子郵件至 Powtron.albert@gmail.com 或在社群媒體上找到我。
 
-- 😄 代名詞：他/他 (He/Him)
+- 😄 代名詞：我有自己的看法，但也理解並尊重別人的選擇。
 
-- ⚡ 我曾經用自己開發的機器人解決了一個複雜的拼圖，比我的朋友快了五倍！
+- ⚡ 我開發了一套程式，結合 CCD 與機器手臂，實現待測物的自動取放。透過演算法，機器手臂能判斷測試結果（Pass/NG），並將成品正確送往出料位置。
 
 | Repository Name          | Description                          | Visibility | Last Updated | Primary Language |
 | ------------------------ | ------------------------------------ | ---------- | ------------ | ---------------- |
@@ -26,8 +26,6 @@
 | Powtron-ATS-2025         | 產線自動測試系統程式                           | Private    | 2025-08-22   | LabVIEW          |
 | Program-en-decryption    | 原始程式加密、解密                            | Private    | 2025-08-25   | LabVIEW          |
 | Powtron-RD               | Config files for my GitHub profile.  | Public     | 2025-08-15   | None             |
-
-
 
 # 📑 SOP 快速選擇表 (Gemini vs Copilot)
 
