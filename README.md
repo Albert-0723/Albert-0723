@@ -12,20 +12,28 @@
 
 - ⚡ 我開發了一套程式，結合 CCD 與機器手臂，實現待測物的自動取放。透過演算法，機器手臂能判斷測試結果（Pass/NG），並將成品正確送往出料位置。
 
-| Repository Name          | Description                          | Visibility | Last Updated | Primary Language |
-| ------------------------ | ------------------------------------ | ---------- | ------------ | ---------------- |
-| Albert-0723              | Repositories List (Readme.md)        | Public     | 2025-08-25   | None             |
-| Albert-0723.github.io    | Albert's Home Page                   | Public     | 2025-08-20   | HTML             |
-| ASP-Script-Generator     | ASP 調整、成測步驟自動產生器                     | Private    | 2025-08-25   | None             |
-| Datalog-exporter         | 測試結果資料查詢                             | Private    | 2025-08-25   | LabVIEW          |
-| Datalog-Importer         | 測試結果資料匯入                             | Private    | 2025-08-25   | LabVIEW          |
-| EERW                     | EEPROM 讀寫 (& 匯入/匯出)、Record 讀取 (& 匯出) | Private    | 2025-08-25   | LabVIEW          |
-| Inverter-Durability-Test | 耐受性測試                                | Private    | 2025-08-25   | LabVIEW          |
-| New-Relay-Board-Tools    | 繼電器控制板工具程式                           | Private    | 2025-08-25   | LabVIEW          |
-| New-Test-Terminal        | 測試用終端機                               | Private    | 2025-08-25   | LabVIEW          |
-| Powtron-ATS-2025         | 產線自動測試系統程式                           | Private    | 2025-08-22   | LabVIEW          |
-| Program-en-decryption    | 原始程式加密、解密                            | Private    | 2025-08-25   | LabVIEW          |
-| Powtron-RD               | Config files for my GitHub profile.  | Public     | 2025-08-15   | None             |
+| Repository Name                    | Description                                                                          |
+|:----------------------------------:| ------------------------------------------------------------------------------------ |
+| Powtron-ATS-2026                   | 產線自動化測試程式備份                                                                          |
+| Albert-0723.github.io              | Albert's Home Page                                                                   |
+| InverterSimulator                  | Inverter 模擬、通訊攔截                                                                     |
+| The-Architectonic-Codex            | From Code to Strategy, Transforming Engineering Fragments into Systemic Wisdom.      |
+| AI-Knowledge                       | ersonal knowledge base managed with Obsidian, designed for RAG and LLM applications. |
+| Powtron-ATS-2025                   | 產線自動測試系統程式                                                                           |
+| Punch-Data-Upload-Tool             | 104 打卡 API 串接，打卡資料上傳                                                                 |
+| Small-board-and-work-order-binding | 小板綁定工單 v1.0.0.34                                                                     |
+| Albert-0723                        | Repositories List (Readme.md)                                                        |
+| EERW-backup                        | EEPROM 讀寫 (& 匯入/匯出)、Record 讀取 (& 匯出)                                                 |
+| Program-en-decryption              | 原始程式加密、解密                                                                            |
+| Inverter-Durability-Test           | 耐受性測試                                                                                |
+| DSC-Monitoring-Tools               | for DSC-1200A-48                                                                     |
+| DSC-Write-Date                     | DSC Write Date                                                                       |
+| ASP-Script-Generator               | ASP 調整、成測步驟自動產生器                                                                     |
+| Datalog-Importer                   | 測試結果資料匯入                                                                             |
+| Datalog-exporter                   | 測試結果資料查詢                                                                             |
+| New-Relay-Board-Tools              | 繼電器控制板工具程式                                                                           |
+| New-Test-Terminal                  | 測試用終端機                                                                               |
+|                                    |                                                                                      |
 
 # 📑 SOP 快速選擇表 (Gemini vs Copilot)
 
